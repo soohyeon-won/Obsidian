@@ -1,5 +1,6 @@
 {
   "trashOption": "local",
   "newFileLocation": "root",
-  "attachmentFolderPath": "media"
+  "attachmentFolderPath": "media",
+  "alwaysUpdateLinks": true
 }

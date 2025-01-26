@@ -41,11 +41,39 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "README 그래프"
+              "title": "Graph of README"
             }
           },
           {
             "id": "7860d953f916c61c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "template/React.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React"
+            }
+          },
+          {
+            "id": "613eaa900b202803",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "template/React.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React"
+            }
+          },
+          {
+            "id": "0735d6a36118c225",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -210,15 +238,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1bcb7ad3747e0de3",
+  "active": "0735d6a36118c225",
   "lastOpenFiles": [
-    "template/trash",
-    "template/옵시디언.md",
-    "template/Trash test.md",
+    "template/React.md",
     "README.md",
+    "template/UseState.md",
+    "template/trash",
+    "template/Trash test.md",
     "template",
     "template/옵시디언 튜토리얼.md",
     "media",
